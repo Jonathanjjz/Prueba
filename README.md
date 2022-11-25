@@ -7,6 +7,6 @@ Carrera: Ing. Forestal\
 Cursos aprobados: Todos los de SIMOCUTE\
 Publicaciones: CORINE LAND COVER
 
-![Imagen local](img/Foto.jpg)
+![Imagen local](img/Foto.JPG)
 
-<img src="img/Foto.jpg" alt="foto" width="100" height="">
+<img src="img/Foto.JPG" alt="foto" width="100" height="">
